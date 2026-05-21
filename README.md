@@ -39,15 +39,17 @@ An **Applied Statistics** student and developer, deeply passionate about the int
 ---
 
 ### 📊 GitHub Analytics
-
 <p align="left">
+  <!-- Thẻ thống kê tổng quát, tính cả commit private -->
   <img src="https://github-readme-stats.vercel.app/api?username=ryantr-statinops&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-top-langs.vercel.replit.app/api?username=ryantr-statinops&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+  
+  <!-- Biểu đồ ngôn ngữ, đã lọc bỏ bớt HTML/CSS để tập trung vào Python/R/JS/SQL -->
+  <img src="https://github-readme-top-langs.vercel.replit.app/api?username=ryantr-statinops&layout=compact&theme=dark&hide_border=true&hide=html,css,json" height="150" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) *(Thay link của bạn vào đây)*
-- 📧 **Email:** [your.email@email.com](mailto:your.email@email.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/ryan-tr/) 
+- 📧 **Email:** [your.email@email.com](mailto:trankhang2856@gmail.com)
