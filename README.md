@@ -39,10 +39,12 @@ An **Applied Statistics** student and developer, deeply passionate about the int
 ---
 
 ### 📊 GitHub Analytics
+
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryantr-statinops&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryantr-statinops&layout=compact&theme=dark&hide_border=true&hide=html,css,json" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryantr-statinops&theme=dark&hide_border=true" height="150" alt="GitHub Streak Stats" />
+
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ryantr-statinops&layout=compact&theme=dark&hide_border=true&hide=html,css,json&count_private=true" height="150" alt="Top Languages Bar Chart" />
 </p>
 
 ---
