@@ -38,25 +38,35 @@ An **Applied Statistics** student and developer, deeply passionate about the int
 
 ---
 
-### 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
 
 <p align="left">
-  <p align="left">
-    <img src="https://img.shields.io/badge/Commits_Lifetime-79_total-blue?style=flat-square&logo=github" height="25" alt="Lifetime Commits" />
-    <img src="https://img.shields.io/badge/Commits_2026-71_this_year-orange?style=flat-square&logo=git&logoColor=white" height="25" alt="2026 Commits" />
-  </p>
-  
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ryantr-statinops&show_icons=true&count_private=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&cache_bust=pure_black_stats" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryantr-statinops&theme=dark&hide_border=true&date_format=M%20j%2C%20Y&cache_bust=1" height="150" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ryantr-statinops&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8&hide=html,css,json,yaml&cache_bust=optimized_langs" height="150" alt="Top Languages Bar Chart" />
+  <img src="https://img.shields.io/badge/Commits_Lifetime-79_total-58a6ff?style=flat-square&logo=github" height="25" alt="Lifetime Commits" />
+  <img src="https://img.shields.io/badge/Commits_2026-71_this_year-orange?style=flat-square&logo=git&logoColor=white" height="25" alt="2026 Commits" />
+</p>
+
+--- 
+
+<table width="100%">
+  <tr align="center">
+    <td width="33.3%">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ryantr-statinops&show_icons=true&count_private=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&hide_border=true&cache_bust=v5_stats" height="155" alt="GitHub Stats" />
+    </td>
+    <td width="33.3%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryantr-statinops&background=000000&ring=58a6ff&fire=orange&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=58a6ff&currStreakLabel=orange&hide_border=true&date_format=M%20j%2C%20Y&cache_bust=final_streak_v2" height="155" alt="GitHub Streak Stats" />
+    </td>
+    <td width="33.4%">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ryantr-statinops&layout=compact&bg_color=000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true&count_private=true&langs_count=8&hide=html,css,json,yaml&cache_bust=v5_langs" height="155" alt="Top Languages Bar Chart" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <a href="https://github.com/ryantr-statinops">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryantr-statinops&bg_color=transparent&color=378add&line=378add&point=378add&area=true&hide_border=true" alt="GitHub Commits Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryantr-statinops&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&cache_bust=v5_graph" width="100%" alt="GitHub Commits Graph" />
 </a>
-
-
-</p>
 
 ---
 
