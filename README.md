@@ -4,34 +4,34 @@ An **Applied Statistics** student and developer, deeply passionate about the int
 
 ---
 
-### 💫 About Me
+## About Me
 
-- 📊 **Current Focus:** Deepening my knowledge in Quantitative Finance, Statistical Arbitrage, and Data Engineering.
-- 🚀 **Projects:** Building and maintaining micro-tools, data pipelines, and automation scripts using open-source, lightweight models.
-- 🏛️ **Academic Path:** Studying Applied Statistics at Ton Duc Thang University.
-- 🎯 **Core Philosophy:** Minimalist code, local data sovereignty, and robust mathematical modeling.
+- **Current Focus:** Deepening my knowledge in Quantitative Finance, Statistical Visualize, and Data Engineering/Ops.
+- **Projects:** Building and maintaining micro-tools, data pipelines, and automation scripts using open-source, lightweight models.
+- **Academic Path:** Studying Statistics(Science's base) at Ton Duc Thang University.
+- **Core Philosophy:** Minimalist code, local data sovereignty, and robust mathematical modeling.
 
 ---
 
-### 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Data & Quant** | `Pandas` • `NumPy` • `VectorBT` • `QuantConnect` • `Web Scraping` (BeautifulSoup/Playwright) |
-| **Environment** | `Linux Mint` • `Docker` • `Git` • `VS Code` (Power User Setup) |
-| **AI Integration**| `Local SLMs` (DeepSeek/Qwen via LM Studio) • `Google Apps Script` |
+| **Data & Quant** | `Pandas` • `NumPy` • `VectorBT` • `QuantConnect` • `statmodel` |
+| **Environment** | `WSL(Ubuntu)` • `Docker` • `Git` • `VS Code` • `Positron` • `Node.js`|
+| **AI Integration**| `Local SLMs` • `Google Apps Script` • `MCP Server` • `OpenRouter`|
 
 ---
 
-### 🛠️ Featured Projects
+## Featured Projects
 
-#### 📌 [Tên Dự Án Trọng Tâm 1 - Ví dụ: Cluster / Google Sheets Add-on]
+####  [ Google Sheets Add-on]
 *A lean, open-source Google Sheets Add-on integrated with local Small Language Models (SLMs) for smart data orchestration.*
 - **Tech stack:** JavaScript, Google Apps Script, Python, Local SLMs.
 - **Key achievement:** Optimized backend workflows to shift from heavy ERP concepts to a minimalist, cost-effective data assistant.
 
-#### 📌 [Tên Dự Án Trọng Tâm 2 - Ví dụ: World Cup Intelligence Hub / Web Scraper]
+####  [ Intelligence Hub / Web Scraper]
 *Automated data pipeline scraping sports and market data for custom analytics and visualization.*
 - **Tech stack:** Python, SQL, R, Quarto.
 - **Key achievement:** Engineered robust scrapers for high-frequency data extraction and structured relational databases for real-time querying.
@@ -39,7 +39,7 @@ An **Applied Statistics** student and developer, deeply passionate about the int
 ---
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="left">
   <img src="https://img.shields.io/badge/Commits_Lifetime-79_total-58a6ff?style=flat-square&logo=github" height="25" alt="Lifetime Commits" />
@@ -70,7 +70,7 @@ An **Applied Statistics** student and developer, deeply passionate about the int
 
 ---
 
-### 📫 Connect with me
+## Connect with me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/ryan-tr/) 
-- 📧 **Email:** [your.email@email.com](mailto:trankhang2856@gmail.com)
+- **LinkedIn:** [https://linkedin.com/in/ryan-tr/](https://linkedin.com/in/ryan-tr/) 
+- **Email:** [trankhang2856@gmail.com](mailto:trankhang2856@gmail.com)
