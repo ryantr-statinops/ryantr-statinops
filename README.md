@@ -53,9 +53,9 @@ An **Applied Statistics** student and developer, deeply passionate about the int
     <td width="33.3%">
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ryantr-statinops&show_icons=true&count_private=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&hide_border=true&cache_bust=v5_stats" height="155" alt="GitHub Stats" />
     </td>
-    <td width="33.3%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryantr-statinops&background=000000&ring=58a6ff&fire=orange&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=58a6ff&currStreakLabel=orange&hide_border=true&date_format=M%20j%2C%20Y&cache_bust=final_streak_v2" height="155" alt="GitHub Streak Stats" />
-    </td>
+  <td width="33.3%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryantr-statinops&background=000000&ring=58a6ff&fire=orange&currStreakNum=ffffff&sideNums=ffffff&dates=58a6ff&currStreakLabel=orange&hide_border=true&date_format=M%20j%2C%20Y&cache_bust=fix_streak_perfect" height="145" alt="GitHub Streak Stats" />
+  </td>
     <td width="33.4%">
       <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ryantr-statinops&layout=compact&bg_color=000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true&count_private=true&langs_count=8&hide=html,css,json,yaml&cache_bust=v5_langs" height="155" alt="Top Languages Bar Chart" />
     </td>
