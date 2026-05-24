@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan  👋
 
-An **Applied Statistics** student and developer, deeply passionate about the intersection of data, automation, and quantitative systems. I focus on building lean software tools and leveraging statistical methods to solve real-world problems.
+An **Applied Statistics** student and developer, passionate about the intersection of data, automation, and quantitative systems. I focus on building lean software tools and leveraging statistical methods to solve real-world problems.
 
 ---
 
@@ -26,15 +26,16 @@ An **Applied Statistics** student and developer, deeply passionate about the int
 
 ## Featured Projects
 
-####  [ Google Sheets Add-on]
+#### Google Sheets Sub-system
 *A lean, open-source Google Sheets Add-on integrated with local Small Language Models (SLMs) for smart data orchestration.*
-- **Tech stack:** JavaScript, Google Apps Script, Python, Local SLMs.
-- **Key achievement:** Optimized backend workflows to shift from heavy ERP concepts to a minimalist, cost-effective data assistant.
-
-####  [ Intelligence Hub / Web Scraper]
-*Automated data pipeline scraping sports and market data for custom analytics and visualization.*
-- **Tech stack:** Python, SQL, R, Quarto.
-- **Key achievement:** Engineered robust scrapers for high-frequency data extraction and structured relational databases for real-time querying.
+- [**Operational CRM & Reporting Infrastructure**](https://github.com/ryantr-statinops/Operation_CRM_Admission)
+### Operation Environment & System
+- [**Quantitative Computing Environment on WSL**](https://github.com/ryantr-statinops/quant-wsl-environment)
+- [**Real-Time System Observability Interface**](https://github.com/ryantr-statinops/task_manager_3D_visualize)
+### Statistical & Data Infrastructure
+- [**Mean Reversion Analytics**](https://github.com/ryantr-statinops/mean_reversion_analytics)
+- [**Simulator Propability Website**](https://github.com/ryantr-statinops/simulator_propability_web)
+- [**Mean Function Simulator**](https://github.com/ryantr-statinops/Mean-Function-simulator)
 
 ---
 
