@@ -1,10 +1,8 @@
 # Hi there, I'm Ryan  👋
 
-An **Applied Statistics** student and developer, passionate about the intersection of data, automation, and quantitative systems. I focus on building lean software tools and leveraging statistical methods to solve real-world problems.
-
----
-
 ## About Me
+
+ Applied **Statistics student** building quantitative and operational systems through workflow automation, analytical tooling, and computational infrastructure. Interested in statistical modeling, data-driven operations, and scalable software systems for real-world analytical and business environments.
 
 - **Current Focus:** Deepening my knowledge in Quantitative Finance, Statistical Visualize, and Data Engineering/Ops.
 - **Projects:** Building and maintaining micro-tools, data pipelines, and automation scripts using open-source, lightweight models.
@@ -22,7 +20,6 @@ An **Applied Statistics** student and developer, passionate about the intersecti
 | **Environment** | `WSL(Ubuntu)` •  `Git` • `VS Code` • `Positron` • `Node.js`|
 | **AI Integration**| `Local SLMs` • `Google Apps Script` • `OpenRouter`|
 
----
 
 ## Featured Projects
 
