@@ -16,7 +16,7 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Data & Quant** | `Pandas` • `NumPy` • `VectorBT` • `QuantConnect` • `statmodel` |
+| **Data Tools** | `Pandas` • `NumPy` • `VectorBT` • `QuantConnect` • `statmodel` |
 | **Environment** | `WSL(Ubuntu)` •  `Git` • `VS Code` • `Positron` • `Node.js`|
 | **AI Integration**| `Local SLMs` • `Google Apps Script` • `OpenRouter`|
 
