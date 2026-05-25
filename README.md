@@ -64,10 +64,3 @@
 <a href="https://github.com/ryantr-statinops">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryantr-statinops&bg_color=000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&cache_bust=v5_graph" width="100%" alt="GitHub Commits Graph" />
 </a>
-
----
-
-## Connect with me
-
-- **LinkedIn:** [https://linkedin.com/in/ryan-tr/](https://linkedin.com/in/ryan-tr/) 
-- **Email:** [trankhang2856@gmail.com](mailto:trankhang2856@gmail.com)
