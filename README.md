@@ -23,8 +23,7 @@
 
 ## Featured Projects
 
-#### Google Sheets Sub-system
-*A lean, open-source Google Sheets Add-on integrated with local Small Language Models (SLMs) for smart data orchestration.*
+### Operation Sub-system
 - [**Operational CRM & Reporting Infrastructure**](https://github.com/ryantr-statinops/Operation_CRM_Admission)
 ### Operation Environment & System
 - [**Quantitative Computing Environment on WSL**](https://github.com/ryantr-statinops/quant-wsl-environment)
