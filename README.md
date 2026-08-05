@@ -16,7 +16,7 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Data Tools** | `Pandas` • `NumPy` • `VectorBT` • `QuantConnect` • `statmodel` • `MetaTrader5` |
+| **Data Tools** | `Anaconda Stack` • `QuantConnect` • `statmodel` • `MetaTrader5` |
 | **Environment** | `Linux` •  `Git` • `VS Code` • `Positron` • `Node.js`|
 
 ## Project
