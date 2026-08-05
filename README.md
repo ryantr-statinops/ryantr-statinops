@@ -2,12 +2,14 @@
 
 ## About Me
 
- Applied **Statistics student** building quantitative and operational systems through workflow automation, analytical tooling, and computational infrastructure. Interested in statistical modeling, data-driven operations, and scalable software systems for real-world analytical and business environments.
+Statistics student passionate about building software, automation, and quantitative systems.
 
-- **Current Focus:** Deepening my knowledge in Quantitative Finance, Statistical Visualize, and Data Engineering/Ops.
-- **Projects:** Building and maintaining micro-tools, data pipelines, and automation scripts using open-source, lightweight models.
-- **Academic Path:** Studying Statistics(Science's base) at Ton Duc Thang University.
-- **Core Philosophy:** Minimalist code, local data sovereignty, and robust mathematical modeling.
+I enjoy turning ideas into practical tools—from backend services and data pipelines to research workflows and analytical applications. My interests lie at the intersection of statistics, software engineering, and quantitative finance.
+
+- **Current Focus:** Quantitative Research, Backend Systems, and Data Infrastructure.
+- **Building:** Automation tools, research pipelines, and small products that solve real problems.
+- **Academic Background:** B.Sc. in Statistics at Ton Duc Thang University.
+- **Philosophy:** Learn by building. Keep systems simple, reliable, and data-driven.
 
 ---
 
