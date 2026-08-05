@@ -23,9 +23,8 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 
 ## Project
 
-### Operation Sub-system
-- [**Operational CRM & Reporting Infrastructure**](https://github.com/ryantr-statinops/Operation_CRM_Admission)
 ### Operation Environment & System
+- [**Operational CRM & Reporting Infrastructure**](https://github.com/ryantr-statinops/Operation_CRM_Admission)
 - [**Quantitative Computing Environment on WSL**](https://github.com/ryantr-statinops/quant-wsl-environment)
 - [**Real-Time System Observability Interface**](https://github.com/ryantr-statinops/task_manager_3D_visualize)
 ### Statistical & Data Infrastructure
