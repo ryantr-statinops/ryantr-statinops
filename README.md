@@ -60,7 +60,7 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 </table>
 
 <p align="center">
-  <img src="metrics.habits.svg" width="100%" alt="Coding Habits" />
+  <img src="metrics.lines.svg" width="100%" alt="Lines of Code Changed" />
 </p>
 
 <br>

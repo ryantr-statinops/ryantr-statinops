@@ -43,13 +43,14 @@ jobs:
           plugin_languages_details: percentage
           config_timezone: Asia/Ho_Chi_Minh
 
-      - name: Coding habits
+      - name: Lines of code changed
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.habits.svg
+          filename: metrics.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 4
+          plugin_lines_history_limit: 1
           config_timezone: Asia/Ho_Chi_Minh
