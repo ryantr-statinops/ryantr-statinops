@@ -39,25 +39,23 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 
 <table width="100%">
 <tr align="center">
-<td width="33.3%">
+<td width="50%">
 
 <img src="metrics.base.svg" width="100%" alt="GitHub Base Metrics" />
 
 </td>
 
-<td width="33.3%">
-
-<img src="metrics.lines.svg" width="30%" align="left" alt="Lines of Code Changed" />
-
-</td>
-
-<td width="33.4%">
+<td width="50%">
 
 <img src="metrics.languages.svg" width="100%" alt="Languages Activity" />
 
 </td>
 </tr>
 </table>
+
+<p align="left">
+  <img src="metrics.lines.svg" width="30%" alt="Lines of Code Changed" />
+</p>
 
 <br>
 
