@@ -21,7 +21,7 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
 
       - name: Languages activity
-        uses: lowlighter/metrics@latest
+        uses: ryantr-statinops/metrics@master
         with:
           filename: metrics.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
