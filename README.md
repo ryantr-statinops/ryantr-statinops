@@ -39,29 +39,32 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 
 <table width="100%">
 <tr align="center">
-<td width="33.3%">
+<td width="50%">
 
-<img src="metrics.base.svg" width="100%" alt="GitHub Base Metrics" />
-
-</td>
-
-<td width="33.3%">
-
-<img src="metrics.isocalendar.svg" width="100%" alt="Isometric Commit Calendar" />
+<img src="metrics.base.svg" height="200" alt="GitHub Base Metrics" />
 
 </td>
 
-<td width="33.4%">
+<td width="50%">
 
-<img src="metrics.languages.svg" width="100%" alt="Languages Activity" />
+<img src="https://streak-stats.demolab.com/?user=ryantr-statinops&theme=tokyonight&background=000000&ring=58a6ff&fire=orange&hide_border=true" height="200" alt="Commit Streak" />
+
+</td>
+</tr>
+<tr align="center">
+<td width="50%">
+
+<img src="metrics.languages.svg" height="200" alt="Languages Activity" />
+
+</td>
+
+<td width="50%">
+
+<img src="metrics.lines.svg" height="200" alt="Lines of Code Changed" />
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="metrics.lines.svg" width="100%" alt="Lines of Code Changed" />
-</p>
 
 <br>
 

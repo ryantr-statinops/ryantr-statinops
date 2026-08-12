@@ -20,16 +20,6 @@ jobs:
           base_indepth: yes
           config_timezone: Asia/Ho_Chi_Minh
 
-      - name: Isometric commit calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          config_timezone: Asia/Ho_Chi_Minh
-
       - name: Languages activity
         uses: lowlighter/metrics@latest
         with:
