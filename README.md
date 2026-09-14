@@ -91,7 +91,7 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 <h2 style="border-bottom:none">GitHub Analytics</h2>
 
 <table width="100%">
-<tr align="center">
+<tr valign="top" align="center">
 <td width="50%">
 
 <img src="metrics.base.svg" width="100%" alt="GitHub Base Metrics" />
@@ -101,14 +101,12 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 <td width="50%">
 
 <img src="metrics.languages.svg" width="100%" alt="Languages Activity" />
+<br />
+<img src="metrics.lines.svg" width="100%" alt="Lines of Code Changed" />
 
 </td>
 </tr>
 </table>
-
-<p align="left">
-  <img src="metrics.lines.svg" width="30%" alt="Lines of Code Changed" />
-</p>
 
 <br>
 
