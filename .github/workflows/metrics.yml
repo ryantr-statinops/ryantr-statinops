@@ -21,7 +21,7 @@ jobs:
           config_timezone: Asia/Ho_Chi_Minh
 
       - name: Languages activity
-        uses: ryantr-statinops/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -31,6 +31,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
+          plugin_languages_ignored: tex, bibtex, latex
           config_timezone: Asia/Ho_Chi_Minh
 
       - name: Lines of code changed
