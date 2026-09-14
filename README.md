@@ -9,14 +9,15 @@
 
 <h2 style="border-bottom:none">About Me</h2>
 
-Statistics student passionate about building software, automation, and quantitative systems.
+Statistics student passionate about building software, data systems, and practical tools.
 
-I enjoy turning ideas into practical tools—from backend services and data pipelines to research workflows and analytical applications. My interests lie at the intersection of statistics, software engineering, and quantitative finance.
+I build practical and open-source projects to solve real problems and turn them into reliable systems—from backend services and data pipelines to infrastructure, automation workflows, and analytical applications. **My work combines statistics, software engineering, and data to build useful systems.**
 
-- **Current Focus:** Quantitative Research, Backend Systems, and Data Infrastructure.
-- **Building:** Automation tools, research pipelines, and small products that solve real problems.
+- **Current Focus:** Backend, Data, and AI Engineering.
+- **Building:** Open-source tools, automation systems, data workflows, and small products that solve practical problems.
 - **Academic Background:** B.Sc. in Statistics at Ton Duc Thang University.
-- **Philosophy:** Learn by building. Keep systems simple, reliable, and data-driven.
+- **Interests:** Systems Design, Data Infrastructure, Automation, Algorithmic Trading, and Quantitative Applications.
+- **Philosophy:** Learn by building. Keep systems simple, reliable, and useful.
 
 <details>
 <summary><h2 style="display:inline;border-bottom:none;margin-bottom:0;padding-bottom:0">Tech Stack & Tools</h2> <i>(click to expand)</i></summary>
