@@ -13,13 +13,36 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 
 ---
 
-## Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Data Tools** | `Anaconda Stack` • `QuantConnect` • `statmodel` • `MetaTrader5` |
-| **Environment** | `Linux` •  `Git` • `VS Code` • `Positron` • `Node.js`|
+
+<details>
+<summary><b>Tech Stack & Tools</b> — <code>Python</code> • <code>TypeScript</code> • <code>Go</code> • <code>Anaconda</code> • <code>Docker</code> &nbsp; <i>(click to expand)</i></summary>
+<br>
+
+#### 💻 Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) — statistical modeling, data pipelines & backend
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) — statistical analysis & visualization
+- ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) — data querying & warehousing
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) — web & automation
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) — typed JS for scalable services
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) — performant backend & systems
+
+#### 📊 Data & Quant Tools
+- **Anaconda Stack** — analysis & ML environment
+- **QuantConnect / MetaTrader5** — backtesting & trading infra
+- **statmodels** — statistical modeling
+
+#### 🛠️ Environment
+- `Linux (Pop_!OS)`
+- `Git`
+- `VS Code`
+- `Positron`
+- `Node.js`
+- `Docker`
+- `Makefile`
+- Focus: reproducible dev environment, automation & research workflow.
+
+</details>
 
 ## Project
 
