@@ -31,7 +31,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          plugin_languages_ignored: tex, bibtex, latex
+          plugin_languages_ignored: tex, bibtex, bibtex style, latex
           config_timezone: Asia/Ho_Chi_Minh
 
       - name: Lines of code changed
@@ -42,6 +42,6 @@ jobs:
           base: ""
           plugin_lines: yes
           plugin_lines_sections: repositories
-          plugin_lines_repositories_limit: 3
+          plugin_lines_repositories_limit: 7
           plugin_lines_delay: 10
           config_timezone: Asia/Ho_Chi_Minh
