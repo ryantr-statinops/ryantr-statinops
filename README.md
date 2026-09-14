@@ -1,6 +1,13 @@
-# Hi there, I'm Ryan  👋
+<h1 align="center" style="border-bottom:none">Hi there, I'm Ryan  👋</h1>
 
-## About Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<h2 style="border-bottom:none">About Me</h2>
 
 Statistics student passionate about building software, automation, and quantitative systems.
 
@@ -11,10 +18,8 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 - **Academic Background:** B.Sc. in Statistics at Ton Duc Thang University.
 - **Philosophy:** Learn by building. Keep systems simple, reliable, and data-driven.
 
----
-
 <details>
-<summary><b>Tech Stack & Tools</b> <i>(click to expand)</i></summary>
+<summary><h2 style="display:inline;border-bottom:none;margin-bottom:0;padding-bottom:0">Tech Stack & Tools</h2> <i>(click to expand)</i></summary>
 <br>
 
   <details>
@@ -58,7 +63,7 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 </details>
 
 <details>
-<summary><b>Projects</b> <i>(click to expand)</i></summary>
+<summary><h2 style="display:inline;border-bottom:none;margin-bottom:0;padding-bottom:0">Projects</h2> <i>(click to expand)</i></summary>
 <br>
 
   <details>
@@ -83,9 +88,7 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 
 </details>
 
----
-
-## GitHub Analytics
+<h2 style="border-bottom:none">GitHub Analytics</h2>
 
 <table width="100%">
 <tr align="center">
