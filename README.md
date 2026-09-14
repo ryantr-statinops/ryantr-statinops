@@ -16,7 +16,7 @@ I enjoy turning ideas into practical tools—from backend services and data pipe
 
 
 <details>
-<summary><b>Tech Stack & Tools</b> — <code>Python</code> • <code>TypeScript</code> • <code>Go</code> • <code>Anaconda</code> • <code>Docker</code> &nbsp; <i>(click to expand)</i></summary>
+<summary><b>Tech Stack & Tools</b> <i>(click to expand)</i></summary>
 <br>
 
 #### 💻 Languages
