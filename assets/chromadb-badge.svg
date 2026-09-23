@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="104" height="20" viewBox="0 0 104 20" role="img" aria-labelledby="title">
   <title id="title">ChromaDB</title>
-  <rect width="104" height="20" fill="#005B75"/>
+  <rect width="104" height="20" fill="#FF6F61"/>
   <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
     <ellipse cx="11" cy="5" rx="4.5" ry="2"/>
     <path d="M6.5 5v6c0 1.2 2 2.2 4.5 2.2s4.5-1 4.5-2.2V5"/>

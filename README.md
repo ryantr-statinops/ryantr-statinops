@@ -23,37 +23,37 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 
   <h3>Languages</h3>
   <p>
-    <img src="https://img.shields.io/badge/Python-005B75?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007A9E?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-0096C7?style=flat-square&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00A8E8?style=flat-square&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/R-00B8F0?style=flat-square&logo=r&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-00C7FC?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
   </p>
 
   <h3>Data, Backend &amp; AI</h3>
   <p>
-    <img src="https://img.shields.io/badge/FastAPI-005B75?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-007A9E?style=flat-square&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-0096C7?style=flat-square&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-00A8E8?style=flat-square&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-00B8F0?style=flat-square&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/DuckDB-00C7FC?style=flat-square&logo=duckdb&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
     <img src="assets/chromadb-badge.svg" alt="ChromaDB" />
     <img src="assets/dagster-badge.svg" alt="Dagster" />
-    <img src="https://img.shields.io/badge/Redis-0096C7?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   </p>
 
   <h3>Web, Systems &amp; Tools</h3>
   <p>
-    <img src="https://img.shields.io/badge/React-00A8E8?style=flat-square&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-00B8F0?style=flat-square&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-00C7FC?style=flat-square&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-005B75?style=flat-square&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-007A9E?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-0096C7?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tauri-00A8E8?style=flat-square&logo=tauri&logoColor=white" />
-    <img src="https://img.shields.io/badge/Three.js-00B8F0?style=flat-square&logo=threedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   </p>
 
 </details>
