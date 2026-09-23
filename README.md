@@ -28,7 +28,7 @@ Currently focused on backend engineering, data infrastructure, automation, and q
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=mysql&logoColor=white" />
   </p>
 
   <h3>Data, Backend &amp; AI</h3>
