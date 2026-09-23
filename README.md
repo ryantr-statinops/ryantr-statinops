@@ -13,11 +13,9 @@ Statistics student building backend systems, data workflows, and practical AI ap
 
 Currently focused on backend engineering, data infrastructure, automation, and quantitative applications.
 
-- **Current Focus:** Backend, Data, and AI Engineering.
-- **Building:** Open-source tools, automation systems, data workflows, and small products that solve practical problems.
-- **Academic Background:** B.Sc. in Statistics at Ton Duc Thang University.
-- **Interests:** Systems Design, Data Infrastructure, Automation, Algorithmic Trading, and Quantitative Applications.
-- **Philosophy:** Learn by building. Keep systems simple, reliable, and useful.
+- **Background:** B.Sc. in Statistics.
+- **Building:** Open-source tools, automation systems, data workflows, and practical products.
+- **Interests:** Systems design, data infrastructure, algorithmic trading, and quantitative applications.
 
 <details>
 <summary><h2 style="display:inline;border-bottom:none;margin-bottom:0;padding-bottom:0">Tech Stack & Tools</h2> <i>(click to expand)</i></summary>
