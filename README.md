@@ -65,9 +65,7 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 <summary><h2 style="display:inline;border-bottom:none;margin-bottom:0;padding-bottom:0">Projects</h2> <i>(click to expand)</i></summary>
 <br>
 
-  <details>
-  <summary>Systems, Products & Automation</summary>
-  <br>
+  **Systems, Products & Automation**
 
   - [**Local Bookmark & Knowledge Manager**](https://github.com/ryantr-statinops/InfoBoard)
   - [**Local News Monitoring Dashboard**](https://github.com/ryantr-statinops/ScrawlNews)
@@ -75,18 +73,12 @@ Currently focused on backend engineering, data infrastructure, automation, and q
   - [**Operational CRM & Reporting Infrastructure**](https://github.com/ryantr-statinops/Operation_CRM_Admission)
   - [**Real-Time System Monitoring**](https://github.com/ryantr-statinops/Orbit-System-Manager)
 
-  </details>
-
-  <details>
-  <summary>Data, Quant & Statistical Computing</summary>
-  <br>
+  **Data, Quant & Statistical Computing**
 
   - [**Statistical Computing Lab**](https://github.com/ryantr-statinops/Stat_Lab)
   - [**CSV Schema Alignment Engine**](https://github.com/ryantr-statinops/CSV-Schema-Alignment)
   - [**Mean Reversion Trading Bot**](https://github.com/ryantr-statinops/mean_reversion_analytics)
   - [**Quantitative Computing Environment on WSL**](https://github.com/ryantr-statinops/quant-wsl-environment)
-
-  </details>
 
 </details>
 
