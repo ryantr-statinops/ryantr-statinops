@@ -9,9 +9,9 @@
 
 <h2 style="border-bottom:none">About Me</h2>
 
-Statistics student passionate about building software, data systems, and practical tools.
+Statistics student building backend systems, data workflows, and practical AI applications. I enjoy turning real-world problems into simple, reliable, and useful software.
 
-I build practical and open-source projects to solve real problems and turn them into reliable systems—from backend services and data pipelines to infrastructure, automation workflows, and analytical applications. **My work combines statistics, software engineering, and data to build useful systems.**
+Currently focused on backend engineering, data infrastructure, automation, and quantitative applications.
 
 - **Current Focus:** Backend, Data, and AI Engineering.
 - **Building:** Open-source tools, automation systems, data workflows, and small products that solve practical problems.
