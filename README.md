@@ -66,22 +66,25 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 <br>
 
   <details>
-  <summary>Operation Environment & System</summary>
+  <summary>Systems, Products & Automation</summary>
   <br>
 
+  - [**Local Bookmark & Knowledge Manager**](https://github.com/ryantr-statinops/InfoBoard)
+  - [**Local News Monitoring Dashboard**](https://github.com/ryantr-statinops/ScrawlNews)
+  - [**Roommate & Rental Matching Platform**](https://github.com/ryantr-statinops/HomeMatch)
   - [**Operational CRM & Reporting Infrastructure**](https://github.com/ryantr-statinops/Operation_CRM_Admission)
-  - [**Quantitative Computing Environment on WSL**](https://github.com/ryantr-statinops/quant-wsl-environment)
-  - [**Real-Time System Observability Interface**](https://github.com/ryantr-statinops/task_manager_3D_visualize)
+  - [**Real-Time System Monitoring**](https://github.com/ryantr-statinops/Orbit-System-Manager)
 
   </details>
 
   <details>
-  <summary>Statistical & Data Infrastructure</summary>
+  <summary>Data, Quant & Statistical Computing</summary>
   <br>
 
-  - [**Mean Reversion Analytics**](https://github.com/ryantr-statinops/mean_reversion_analytics)
-  - [**Simulator Propability Website**](https://github.com/ryantr-statinops/simulator_propability_web)
-  - [**Mean Function Simulator**](https://github.com/ryantr-statinops/Mean-Function-simulator)
+  - [**Statistical Computing Lab**](https://github.com/ryantr-statinops/Stat_Lab)
+  - [**CSV Schema Alignment Engine**](https://github.com/ryantr-statinops/CSV-Schema-Alignment)
+  - [**Mean Reversion Trading Bot**](https://github.com/ryantr-statinops/mean_reversion_analytics)
+  - [**Quantitative Computing Environment on WSL**](https://github.com/ryantr-statinops/quant-wsl-environment)
 
   </details>
 
