@@ -39,8 +39,8 @@ Currently focused on backend engineering, data infrastructure, automation, and q
     <img src="https://img.shields.io/badge/PostgreSQL-00A8E8?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-00B8F0?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/DuckDB-00C7FC?style=for-the-badge&logo=duckdb&logoColor=white" />
-    <img src="https://img.shields.io/badge/ChromaDB-005B75?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Dagster-007A9E?style=for-the-badge&logo=dagster&logoColor=white" />
+    <img src="assets/chromadb-badge.svg" alt="ChromaDB" />
+    <img src="assets/dagster-badge.svg" alt="Dagster" />
     <img src="https://img.shields.io/badge/Redis-0096C7?style=for-the-badge&logo=redis&logoColor=white" />
   </p>
 
