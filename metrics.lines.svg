@@ -55,7 +55,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">ryantr-statinops/ck_tieuluan_nhom_1</span>
+                            <span class="diff-handle">ryantr-statinops/Orbit-System-Manager</span>
                         </div>
                     </section>
                     <section>
@@ -114,8 +114,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +93.3k</span>
-                                <span class="deleted"> -64.7k</span>
+                                <span class="added">   +95k</span>
+                                <span class="deleted"> -64.9k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -123,10 +123,10 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
+                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +73k</span>
+                                <span class="added"> +94.4k</span>
                                 <span class="deleted"> -21.2k</span>
                             </div>
                             <span> </span>
@@ -138,8 +138,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added"> +33.4k</span>
-                                <span class="deleted">   -23k</span>
+                                <span class="added"> +37.7k</span>
+                                <span class="deleted"> -27.6k</span>
                             </div>
                             <span> </span>
                         </div>
