@@ -104,7 +104,7 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 <p align="center">
   <img
     src="metrics.isocalendar.svg"
-    width="100%"
+    width="480"
     alt="GitHub contributions over the past year, shown as an isometric calendar"
   />
 </p>
