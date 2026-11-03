@@ -101,7 +101,7 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 
 <br>
 
-<p align="center">
+<p align="left">
   <img
     src="metrics.isocalendar.svg"
     width="480"
