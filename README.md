@@ -103,8 +103,8 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 
 <p align="center">
   <img
-    src="https://gitlyy.vercel.app/api/contribution?username=ryantr-statinops&hide_border=true"
+    src="assets/contribution-3d.svg"
     width="100%"
-    alt="GitHub Contribution Graph"
+    alt="GitHub contributions over the past year, shown as a cyan 3D calendar"
   />
 </p>
