@@ -62,20 +62,20 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 <summary><h2 style="display:inline;border-bottom:none;margin-bottom:0;padding-bottom:0">Projects</h2> <i>(click to expand)</i></summary>
 <br>
 
-  **Systems, Products & Automation**
+  **Products & Tools**
 
-  - [**Local Bookmark & Knowledge Manager**](https://github.com/ryantr-statinops/InfoBoard)
-  - [**Local News Monitoring Dashboard**](https://github.com/ryantr-statinops/ScrawlNews)
-  - [**Roommate & Rental Matching Platform**](https://github.com/ryantr-statinops/HomeMatch)
-  - [**Operational CRM & Reporting Infrastructure**](https://github.com/ryantr-statinops/Operation_CRM_Admission)
-  - [**Real-Time System Monitoring**](https://github.com/ryantr-statinops/Orbit-System-Manager)
+  - [**VisuaSlide**](https://github.com/ryantr-statinops/VisuaSlide)
+  - [**InfoBoard**](https://github.com/ryantr-statinops/InfoBoard)
+  - [**ScrawlNews**](https://github.com/ryantr-statinops/ScrawlNews)
+  - [**Orbit-System-Manager**](https://github.com/ryantr-statinops/Orbit-System-Manager)
 
-  **Data, Quant & Statistical Computing**
+  **Quant Lab**
 
-  - [**Statistical Computing Lab**](https://github.com/ryantr-statinops/Stat_Lab)
-  - [**CSV Schema Alignment Engine**](https://github.com/ryantr-statinops/CSV-Schema-Alignment)
-  - [**Mean Reversion Trading Bot**](https://github.com/ryantr-statinops/mean_reversion_analytics)
-  - [**Quantitative Computing Environment on WSL**](https://github.com/ryantr-statinops/quant-wsl-environment)
+  - [**factorsbt**](https://github.com/ryantr-statinops/factorsbt)
+  - [**lattice-terminal**](https://github.com/ryantr-statinops/lattice-terminal)
+  - [**fundamental-ranking-lab**](https://github.com/ryantr-statinops/fundamental-ranking-lab)
+  - [**qlab_policy**](https://github.com/ryantr-statinops/qlab_policy)
+  - [**indexpilot-us100**](https://github.com/ryantr-statinops/indexpilot-us100)
 
 </details>
 
