@@ -103,8 +103,8 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 
 <p align="center">
   <img
-    src="assets/contribution-3d.svg"
+    src="metrics.isocalendar.svg"
     width="100%"
-    alt="GitHub contributions over the past year, shown as a cyan 3D calendar"
+    alt="GitHub contributions over the past year, shown as an isometric calendar"
   />
 </p>
