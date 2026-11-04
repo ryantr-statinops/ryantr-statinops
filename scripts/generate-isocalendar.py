@@ -146,7 +146,7 @@ def render_svg(days):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--user", required=True)
-    parser.add_argument("--days", type=int, default=90, choices=range(1, 366), metavar="1–365")
+    parser.add_argument("--days", type=int, default=180, choices=range(1, 366), metavar="1–365")
     parser.add_argument("--output", type=Path, default=Path("metrics.isocalendar.svg"))
     args = parser.parse_args()
     token = os.environ.get("METRICS_TOKEN")

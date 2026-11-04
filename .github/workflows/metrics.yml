@@ -15,11 +15,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate 90-day isometric calendar
+      - name: Generate 180-day isometric calendar
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           PROFILE_USER: ${{ github.repository_owner }}
-        run: python3 scripts/generate-isocalendar.py --user "$PROFILE_USER" --days 90
+        run: python3 scripts/generate-isocalendar.py --user "$PROFILE_USER" --days 180
 
       - name: Publish isometric calendar
         env:
