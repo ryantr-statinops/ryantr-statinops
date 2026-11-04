@@ -3,12 +3,14 @@
 import argparse
 from datetime import date, datetime, time, timedelta, timezone
 import json
+from math import radians, tan
 import os
 from pathlib import Path
 from urllib.request import Request, urlopen
 
 
 LEVELS = ("NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE")
+TILT_DEGREES = 15
 QUERY = """
 query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
@@ -71,21 +73,30 @@ def render_svg(days):
     left, right = -96, 20 * last_column + 18
     scale = min(1.2, 432 / (right - left))
     chart_x = 240 - (left + right) * scale / 2
+    slope = tan(radians(TILT_DEGREES))
+    week_edge = 18 * slope
+    day_edge = 12 * slope
+    front_edge = week_edge + day_edge
     blocks = []
     tops, bottoms = [], []
     for index, (day, count, level) in enumerate(days):
         column, row = divmod(start_row + index, 7)
-        x, y = column * 20 - row * 14, column * 10 + row * 7
+        x = column * 20 - row * 14
+        y = (column * 20 + row * 14) * slope
         rise = round(34 * count / peak) if peak else 0
         top = y - rise
+        base = y + 2
         tops.append(top)
-        bottoms.append(y + 17)
+        bottoms.append(base + front_edge)
         blocks.append(
             f'    <g class="level-{LEVELS.index(level)}" data-date="{day}">'
             f'<title>{day} · {count} contributions</title>'
-            f'<polygon points="{x-12},{top+6} {x+6},{top+15} {x+6},{y+17} {x-12},{y+8}" class="side-a"/>'
-            f'<polygon points="{x+6},{top+15} {x+18},{top+9} {x+18},{y+11} {x+6},{y+17}" class="side-b"/>'
-            f'<polygon points="{x},{top} {x+18},{top+9} {x+6},{top+15} {x-12},{top+6}"/>'
+            f'<polygon points="{x-12},{top+day_edge:.3f} {x+6},{top+front_edge:.3f} '
+            f'{x+6},{base+front_edge:.3f} {x-12},{base+day_edge:.3f}" class="side-a"/>'
+            f'<polygon points="{x+6},{top+front_edge:.3f} {x+18},{top+week_edge:.3f} '
+            f'{x+18},{base+week_edge:.3f} {x+6},{base+front_edge:.3f}" class="side-b"/>'
+            f'<polygon points="{x},{top:.3f} {x+18},{top+week_edge:.3f} '
+            f'{x+6},{top+front_edge:.3f} {x-12},{top+day_edge:.3f}"/>'
             '</g>'
         )
 
