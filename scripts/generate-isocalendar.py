@@ -11,6 +11,7 @@ from urllib.request import Request, urlopen
 
 LEVELS = ("NONE", "FIRST_QUARTILE", "SECOND_QUARTILE", "THIRD_QUARTILE", "FOURTH_QUARTILE")
 TILT_DEGREES = 15
+MAX_BAR_HEIGHT = 48
 QUERY = """
 query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
@@ -85,7 +86,7 @@ def render_svg(days):
         column, row = divmod(start_row + index, 7)
         x = column * 20 - row * 14
         y = (column * 20 + row * 14) * slope
-        rise = round(34 * count / peak) if peak else 0
+        rise = round(MAX_BAR_HEIGHT * count / peak) if peak else 0
         top = y - rise
         base = y + 2
         tops.append(top)
