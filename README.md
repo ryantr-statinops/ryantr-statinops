@@ -104,7 +104,7 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 <p align="left">
   <img
     src="metrics.isocalendar.svg"
-    width="480"
+    width="100%"
     alt="GitHub contributions and streak statistics for the last 180 days"
   />
 </p>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" viewBox="0 0 480 244" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="325" viewBox="0 0 800 325" role="img" aria-labelledby="title desc">
   <title id="title">GitHub contribution calendar</title>
   <desc id="desc">180 days from 2026-05-09 to 2026-11-04, with daily contribution counts and streak statistics.</desc>
   <style>
@@ -26,7 +26,7 @@
   </style>
   <text x="20" y="23" class="heading">Contributions · Last 180 days</text>
   <text x="20" y="42" class="muted">09 May 2026 – 04 Nov 2026</text>
-  <g transform="translate(89.41 60.35) scale(0.6814)">
+  <g transform="translate(137.87 57.64) scale(1.1861)">
     <g class="level-1" data-date="2026-05-09"><title>2026-05-09 · 2 contributions</title><polygon points="-96,25.723 -78,30.546 -78,32.546 -96,27.723" class="side-a"/><polygon points="-78,30.546 -66,27.331 -66,29.331 -78,32.546" class="side-b"/><polygon points="-84,22.508 -66,27.331 -78,30.546 -96,25.723"/></g>
     <g class="level-0" data-date="2026-05-10"><title>2026-05-10 · 0 contributions</title><polygon points="8,8.574 26,13.397 26,15.397 8,10.574" class="side-a"/><polygon points="26,13.397 38,10.182 38,12.182 26,15.397" class="side-b"/><polygon points="20,5.359 38,10.182 26,13.397 8,8.574"/></g>
     <g class="level-0" data-date="2026-05-11"><title>2026-05-11 · 0 contributions</title><polygon points="-6,12.326 12,17.149 12,19.149 -6,14.326" class="side-a"/><polygon points="12,17.149 24,13.933 24,15.933 12,19.149" class="side-b"/><polygon points="6,9.110 24,13.933 12,17.149 -6,12.326"/></g>
@@ -208,9 +208,9 @@
     <g class="level-4" data-date="2026-11-03"><title>2026-11-03 · 126 contributions</title><polygon points="480,121.052 498,125.875 498,156.875 480,152.052" class="side-a"/><polygon points="498,125.875 510,122.659 510,153.659 498,156.875" class="side-b"/><polygon points="492,117.836 510,122.659 498,125.875 480,121.052"/></g>
     <g class="level-2" data-date="2026-11-04"><title>2026-11-04 · 45 contributions</title><polygon points="466,143.803 484,148.626 484,160.626 466,155.803" class="side-a"/><polygon points="484,148.626 496,145.411 496,157.411 484,160.626" class="side-b"/><polygon points="478,140.587 496,145.411 484,148.626 466,143.803"/></g>
   </g>
-  <path d="M20 194 H460" class="divider"/>
-  <text x="20" y="210" class="muted">Current streak</text><text x="20" y="230" class="value">35 days</text>
-  <text x="136" y="210" class="muted">Best streak</text><text x="136" y="230" class="value">35 days</text>
-  <text x="252" y="210" class="muted">Most in a day</text><text x="252" y="230" class="value">150</text>
-  <text x="368" y="210" class="muted">Daily average</text><text x="368" y="230" class="value">28.19</text>
+  <path d="M20 275 H780" class="divider"/>
+  <text x="20" y="291" class="muted">Current streak</text><text x="20" y="311" class="value">35 days</text>
+  <text x="210" y="291" class="muted">Best streak</text><text x="210" y="311" class="value">35 days</text>
+  <text x="400" y="291" class="muted">Most in a day</text><text x="400" y="311" class="value">150</text>
+  <text x="590" y="291" class="muted">Daily average</text><text x="590" y="311" class="value">28.19</text>
 </svg>

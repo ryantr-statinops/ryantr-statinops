@@ -59,6 +59,8 @@ def fetch_days(login, token, start, now):
 
 
 def render_svg(days):
+    width = 800
+    padding = 20
     first, last = days[0][0], days[-1][0]
     peak = max(count for _, count, _ in days)
     average = sum(count for _, count, _ in days) / len(days)
@@ -71,8 +73,8 @@ def render_svg(days):
     start_row = (first.weekday() + 1) % 7
     last_column = (start_row + len(days) - 1) // 7
     left, right = -96, 20 * last_column + 18
-    scale = min(1.2, 432 / (right - left))
-    chart_x = 240 - (left + right) * scale / 2
+    scale = min(1.25, (width - 2 * (padding + 4)) / (right - left))
+    chart_x = (width - (left + right) * scale) / 2
     slope = tan(radians(TILT_DEGREES))
     week_edge = 18 * slope
     day_edge = 12 * slope
@@ -109,14 +111,15 @@ def render_svg(days):
         ("Most in a day", str(peak)),
         ("Daily average", f"{average:.2f}"),
     )
+    column_width = (width - 2 * padding) // len(stats)
     labels = [
         f'  <text x="{x}" y="{stats_y+16}" class="muted">{label}</text>'
         f'<text x="{x}" y="{stats_y+36}" class="value">{value}</text>'
-        for x, (label, value) in zip((20, 136, 252, 368), stats)
+        for x, (label, value) in zip(range(padding, width - padding, column_width), stats)
     ]
 
     return "\n".join([
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="480" height="{height}" viewBox="0 0 480 {height}" role="img" aria-labelledby="title desc">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
         '  <title id="title">GitHub contribution calendar</title>',
         f'  <desc id="desc">{len(days)} days from {first} to {last}, with daily contribution counts and streak statistics.</desc>',
         """  <style>
@@ -142,12 +145,12 @@ def render_svg(days):
       .level-4 { fill: #39d353; }
     }
   </style>""",
-        f'  <text x="20" y="23" class="heading">Contributions · Last {len(days)} days</text>',
-        f'  <text x="20" y="42" class="muted">{first:%d %b %Y} – {last:%d %b %Y}</text>',
+        f'  <text x="{padding}" y="23" class="heading">Contributions · Last {len(days)} days</text>',
+        f'  <text x="{padding}" y="42" class="muted">{first:%d %b %Y} – {last:%d %b %Y}</text>',
         f'  <g transform="translate({chart_x:.2f} {chart_y:.2f}) scale({scale:.4f})">',
         *blocks,
         '  </g>',
-        f'  <path d="M20 {stats_y} H460" class="divider"/>',
+        f'  <path d="M{padding} {stats_y} H{width-padding}" class="divider"/>',
         *labels,
         '</svg>',
         '',
