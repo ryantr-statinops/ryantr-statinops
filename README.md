@@ -24,6 +24,7 @@ Currently focused on backend engineering, data infrastructure, automation, and q
   <h3>Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -62,20 +63,24 @@ Currently focused on backend engineering, data infrastructure, automation, and q
 <summary><h2 style="display:inline;border-bottom:none;margin-bottom:0;padding-bottom:0">Projects</h2> <i>(click to expand)</i></summary>
 <br>
 
-  **Products & Tools**
+  **Quant & Market Infrastructure**
 
-  - [**VisuaSlide**](https://github.com/ryantr-statinops/VisuaSlide)
-  - [**InfoBoard**](https://github.com/ryantr-statinops/InfoBoard)
-  - [**ScrawlNews**](https://github.com/ryantr-statinops/ScrawlNews)
-  - [**Orbit-System-Manager**](https://github.com/ryantr-statinops/Orbit-System-Manager)
+  - [**Multi-Asset Factors Backtesting Engine**](https://github.com/ryantr-statinops/factorsbt)
+  - [**Multi-Market Equity Research Terminal**](https://github.com/ryantr-statinops/lattice-terminal)
+  - [**Fundamental Stock & Sector Ranking Lab**](https://github.com/ryantr-statinops/fundamental-ranking-lab)
 
-  **Quant Lab**
+  **AI, Reinforcement Learning & Trading Agents**
 
-  - [**factorsbt**](https://github.com/ryantr-statinops/factorsbt)
-  - [**lattice-terminal**](https://github.com/ryantr-statinops/lattice-terminal)
-  - [**fundamental-ranking-lab**](https://github.com/ryantr-statinops/fundamental-ranking-lab)
-  - [**qlab_policy**](https://github.com/ryantr-statinops/qlab_policy)
-  - [**indexpilot-us100**](https://github.com/ryantr-statinops/indexpilot-us100)
+  - [**Autonomous Trading Policy LLM**](https://github.com/ryantr-statinops/qlab_policy)
+  - [**US100 Reinforcement Learning Portfolio Stage Manager**](https://github.com/ryantr-statinops/indexpilot-us100)
+  - [**Alpha Strategy Research & Trading Agent**](https://github.com/ryantr-statinops/Alpha_Stratergy_Agent)
+
+  **Systems, Automation & Developer Tools**
+
+  - [**Real-Time System & Kernel Monitoring**](https://github.com/ryantr-statinops/Orbit-System-Manager)
+  - [**Automated Data Reporting SDK (VisuaSlide)**](https://github.com/ryantr-statinops/VisuaSlide)
+  - [**Local News Monitoring Dashboard**](https://github.com/ryantr-statinops/ScrawlNews)
+  - [**Local Bookmark & Knowledge Manager**](https://github.com/ryantr-statinops/InfoBoard)
 
 </details>
 
